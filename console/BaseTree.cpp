@@ -150,6 +150,7 @@ void BaseTree::deleteElement(int data)
 	}
 	else if (j == 0)
 	{
+		current->keys.erase(current->keys.begin());
 		int key = current->sons[0]->data;
 		bool p = false;
 		Node *tmp = current;
