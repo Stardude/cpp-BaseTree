@@ -9,3 +9,4 @@ Its functionality:</br>
 </br>→ print the tree in console... like a tree=)
 </p>
 <p>Program has functions for adding, searching and deleting elements, and for printing the tree.</p>
+<p><b>Note.</b> The information saves ONLY in leafs of the base-tree.</p>
